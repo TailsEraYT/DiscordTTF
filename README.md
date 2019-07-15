@@ -1,5 +1,5 @@
-Tails The Fox Discord Bot Code
-==============================
+DiscordTTF
+==========
 Made By MayoCode / EraMedia
 ---------------------------
 
