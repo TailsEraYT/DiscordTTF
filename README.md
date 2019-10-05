@@ -30,8 +30,8 @@ Added
 
 | Command | Details | Output | Perms |
 |-|-|-|-|
-| !ping | I play Ping Pong too! | N/A |
-| !help | Shows Help info !help {var} | (Shows Help and info) / N/A |
+| !ping | I play Ping Pong too! | Pong! | N/A |
+| !help | Shows Help info !help {var} | (Shows Help and info) | N/A |
 | !avatar | I show a link you your avatar! | the URL to your avatar! | N/A |
 
 To Be Added
