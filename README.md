@@ -28,17 +28,17 @@ This is all the commands that I have, and Want!
 Added
 -----
 
-Command / Details / Output / Perms
-!ping / I play Ping Pong too! / N/A
-!help / Shows Help info !help {var} / (Shows Help and info) / N/A
+| Command | Details | Output | Perms |
+| !ping | I play Ping Pong too! | N/A |
+| !help | Shows Help info !help {var} | (Shows Help and info) / N/A |
+| !avatar | I show a link you your avatar! | the URL to your avatar! | N/A |
 
 To Be Added
 -----------
 
-Command / Details / Output / Perms
-!Kick / Kicks bad Users. !kick {user} / Kicked that bad {user}. / Kick user
-!Ban / Bans Bad Users. !kick {user} / Banned the scumbag {user}. / ban user
-!avatar / I show a link you your avatar! / the URL to your avatar! / N/A
+All dev logs are moved to this place right Here. \|/
+
+https://github.com/eramedia-coding/DiscordTTF/projects/
 
 End of Document
 ---------------
