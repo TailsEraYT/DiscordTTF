@@ -1,6 +1,6 @@
 DiscordTTF
 ==========
-Made By MayoCode / EraMedia
+Made By EraMedia
 ---------------------------
 
 Plan
@@ -8,6 +8,7 @@ Plan
 
 To Be a Auto-Moderator / Custom Commands / Other
 
+We will have a Coder on hand to work on this bot even more :)
 
 About Me!
 ---------
@@ -18,10 +19,6 @@ I'm showing stuff. Yay!
 On the back-end,
 - Im a coded Project! I start by reading `server.js`.
 - safely store my secrets in `.env` (Oy! dont touch me!)
-
-I Have a database!
-- I use sqlite but you can power your Guys with [a number of other storage options](https://glitch.com/storage)
--Here is the Nerd stuff. `sqlite.db` is created and put into the `.data` folder, a hidden directory whose contents aren’t copied when a project is remixed. you can see the contents of `.data` in the console under "Logs". so basicly you cant get my Token of life. (someone would hate that to happen anyways.)
 
 Commands
 --------
