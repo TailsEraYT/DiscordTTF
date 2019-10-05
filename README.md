@@ -17,7 +17,7 @@ On the front-end,
 I'm showing stuff. Yay!
 
 On the back-end,
-- Im a coded Project! I start by reading `server.js`.
+- Im a coded Project! I start by reading `Bot.js`.
 - safely store my secrets in `.env` (Oy! dont touch me!)
 
 Commands
